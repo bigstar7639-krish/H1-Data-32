@@ -103,3 +103,6 @@ A: Dalmatian - Animals
 Auto Quiz - History 🧠
 Q: Which of these characters from "SpongeBob SquarePants" is not a squid?
 A: Gary - Entertainment: Cartoon & Animations
+Auto Quiz - Culture 🧠
+Q: What is the capital of Ecuador?
+A: Quito - Geography
