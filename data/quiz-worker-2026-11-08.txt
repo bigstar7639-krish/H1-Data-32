@@ -4,3 +4,6 @@ A: Center Parcs - General Knowledge
 Auto Quiz - Nature 🧠
 Q: Which town is the setting for the Disney movie The Love Bug (1968)?
 A: San Francisco - Entertainment: Film
+Auto Quiz - Cat 🧠
+Q: In the original "Super Mario Bros.", what is the acceleration of Mario if he was in free fall?
+A: 91.28 m/s^2 - Entertainment: Video Games
