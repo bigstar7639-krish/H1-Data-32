@@ -25,3 +25,6 @@ A: Duck Soup - Entertainment: Film
 Auto Quiz - Music 🧠
 Q: When was Nintendo's Virtual Boy released?
 A: 1995 - Entertainment: Video Games
+Auto Quiz - Movie 🧠
+Q: In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?
+A: Quan Chi - Entertainment: Video Games
