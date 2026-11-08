@@ -31,3 +31,6 @@ A: Quan Chi - Entertainment: Video Games
 Auto Quiz - Temple 🧠
 Q: What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?
 A: Dunning-Kruger effect - Science & Nature
+Auto Quiz - Flower 🧠
+Q: What is the standard frame rate for animation?
+A: 24 FPS - Entertainment: Cartoon & Animations
