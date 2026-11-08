@@ -88,3 +88,6 @@ A: Tardar Sauce - Animals
 Auto Quiz - Beauty 🧠
 Q: Who painted The Starry Night?
 A: Vincent van Gogh - Art
+Auto Quiz - Game 🧠
+Q: What was the first successful and commercially viable photographic technique?
+A: The Daguerreotype - Art
