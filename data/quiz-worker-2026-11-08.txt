@@ -85,3 +85,6 @@ A: Blanche - Entertainment: Video Games
 Auto Quiz - Sleep 🧠
 Q: What is Grumpy Cat's real name?
 A: Tardar Sauce - Animals
+Auto Quiz - Beauty 🧠
+Q: Who painted The Starry Night?
+A: Vincent van Gogh - Art
