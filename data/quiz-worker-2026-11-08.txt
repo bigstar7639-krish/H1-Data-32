@@ -100,3 +100,6 @@ A: Amarillo - Geography
 Auto Quiz - Science 🧠
 Q: Which dog breed is named after a region in Croatia
 A: Dalmatian - Animals
+Auto Quiz - History 🧠
+Q: Which of these characters from "SpongeBob SquarePants" is not a squid?
+A: Gary - Entertainment: Cartoon & Animations
