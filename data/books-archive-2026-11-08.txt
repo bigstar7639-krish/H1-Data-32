@@ -52,3 +52,4 @@ Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Alg
 Student - bwb_S0-DNM-028 - High school student book
 Business - isbn_9780030978555 - Business Research Methods
 Business - phm_test_business_ms4d95ul - PHM Test Business
+Money - howtoincreaseyou0000john_v0r0 - How to Increase Your Money-Making Power
